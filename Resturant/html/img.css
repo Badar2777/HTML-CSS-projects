@@ -1,0 +1,9 @@
+body::content{
+    content: "";
+    background-image: url('/img/img1\ \(1\).png') center/cover no-repeat;
+    height: 100%;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+}
